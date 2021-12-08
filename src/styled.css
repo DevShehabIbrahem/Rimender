@@ -1,0 +1,47 @@
+body {
+  background: #831111;
+}
+.app {
+  width: 46%;
+  margin: auto;
+  background: #15336b;
+  text-align: center;
+  padding: 15px 10px;
+  margin-top: 35px;
+  border-radius: 15px;
+  box-shadow: 1px 2px 5px #000;
+}
+.App img {
+  width: 139px;
+  display: block;
+  margin: auto;
+  height: 139px;
+}
+
+.reminder-title {
+  font-weight: bold;
+  color: #fff;
+  font-size: 27px;
+  text-align: center;
+  text-decoration: underline;
+}
+.app img {
+  width: 139px;
+  margin: auto;
+  height: 139px;
+}
+.app input {
+  margin: 10px 0;
+}
+.list-group {
+  margin: 5px 0;
+  list-style: none;
+  background: #fff;
+}
+.list-group li {
+  position: relative;
+
+  margin: 10px;
+  border-bottom: 1px solid;
+  padding: 4px;
+}
